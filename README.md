@@ -7,4 +7,5 @@ includes:
 3) color console ui
 4) record edit options
 5) admin access code (1234)
-6) record search & delete 
+6) record search & delete
+7) record input validation
